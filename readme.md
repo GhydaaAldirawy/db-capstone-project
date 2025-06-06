@@ -55,6 +55,9 @@ Interactive dashboard created in Tableau that includes:
 ## 📊 Screenshots
 
 > Include screenshots of your ER Diagram and Tableau Dashboard here.
+![Sales Bubble Chart](https://github.com/user-attachments/assets/19669baa-6a76-46be-bb13-da25b1d49228)
+![LittleemonDM1](https://github.com/user-attachments/assets/9fa64182-b4f5-4d20-807f-6da1b02c4187)
+
 
 ---
 
